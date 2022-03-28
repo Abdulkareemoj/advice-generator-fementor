@@ -10,7 +10,6 @@
 img{
     max-width: 100%;
 }
-
 body{
     font-family: "Manrope", sans-serif;
     font-size: 1.25rem;
@@ -18,10 +17,12 @@ body{
     padding: 1.25rem;
     text-align: center;
     background-color: var(--dark-grayish-blue);
+    display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     height: calc(100vh - 0.1px);
+    
 }
 
 .container h1{
