@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- [Live site URL here](https://abdulkareemoj.github.io/advice-generator-fementor)
+- [Live site URL here](http://advice-generator-fementor.vercel.app/)
 
 ## My process
 
