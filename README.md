@@ -40,10 +40,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - A bit of Flexbox and CSS Grid
-- Mobile-first workflow
-
-###V2.0
-- [React](https://reactjs.org/) - JS library
+- Mobile-first workflow 
 
 
 ### What I learned
